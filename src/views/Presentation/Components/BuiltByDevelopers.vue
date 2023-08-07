@@ -12,7 +12,7 @@ import me from "@/assets/img/ach/ach.png";
       }"
       loading="lazy"
     >
-      <span class="mask bg-gradient-dark"></span>
+      <span class="mask bg-gradient-dark opacity-5"></span>
       <div class="container">
         <div class="row">
           <div class="col-lg-6 ms-lg-5">

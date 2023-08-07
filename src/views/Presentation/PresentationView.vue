@@ -52,7 +52,7 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <div class="container position-sticky z-index-sticky top-0">
+  <div class="container position-sticky z-index-sticky top-1">
     <div class="row">
       <div class="col-12">
         <NavbarDefault :sticky="true" />
@@ -75,7 +75,7 @@ onUnmounted(() => {
         >
           <span class="mask bg-gradient-dark"></span>
           <div class="container">
-            <div class="row align-items-center mt-5">
+            <div class="row align-items-center mt-7">
               <div class="col-lg-6">
                 <h1 class="text-white">
                   Au-delà de mon

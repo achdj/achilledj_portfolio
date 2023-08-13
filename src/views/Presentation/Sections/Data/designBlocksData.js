@@ -84,14 +84,14 @@ export default [
         image: agency,
         title: "Mobile agency",
         subtitle: "Mobile agency est une application mobile conçue pour les agents de collecte des microfinances.",
-        route: "",
+        route: "#",
         pro: true
       },
       {
         image: masfinance,
         title: "Masfinance",
         subtitle: "J'ai eu a travailler sur des modules de l'application web de gestion des microfinances.",
-        route: "",
+        route: "#",
         pro: true
       }
     ]
@@ -104,21 +104,21 @@ export default [
         image: zocentive,
         title: "Zocentive",
         subtitle: "zocentive pousse les utilisateurs à faire du sport tout en étant récompensé par des challenges.",
-        route: "https://drive.google.com/file/d/1PnoXtt1u0mfEckWn6y7NDvw-kxQTaWvt/view?usp=drive_link",
+        route: "#",
         pro: true
       },
       {
         image: go,
         title: "Go",
         subtitle: "J'ai eu à développer l'application web pour la gestion des trajets de bus, qui est le back office de l'application mobile qui y ait couplé.",
-        route: "",
+        route: "#",
         pro: true
       },
       {
         image: pup,
         title: "Pick up point",
         subtitle: "Pup a pour but de rapprochez les stores des utilisateurs.",
-        route: "",
+        route: "#",
         pro: true
       },
     ]
@@ -158,7 +158,7 @@ export default [
         image: sunu,
         title: "Sunu PGS",
         subtitle: "C'est une application web pour la gestion des prises en charge des clients de l'assurance santé.",
-        route: "",
+        route: "#",
         pro: true
       },
     ]
@@ -171,7 +171,7 @@ export default [
         image: cagecfi,
         title: "Cagecfi Réservation",
         subtitle: "J'ai eu à développer une plateforme de réservation et de gestion de lieu d’évènement.",
-        route: "",
+        route: "#",
         pro: true
       },
     ]

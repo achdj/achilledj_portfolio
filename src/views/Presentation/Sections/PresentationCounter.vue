@@ -13,7 +13,7 @@ import DefaultCounterCard from "../../../examples/cards/counterCards/DefaultCoun
                 color="warning"
                 title="Projets accomplis"
                 description="De niveau « performant » sont dirigés par moi de la conception, à la réalisation puis à la maintenance évolutive."
-                :count="10"
+                :count="20"
                 suffix="+"
                 :duration="3000"
                 divider="vertical"

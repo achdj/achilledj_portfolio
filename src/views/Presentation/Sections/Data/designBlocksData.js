@@ -49,7 +49,7 @@ export default [
       {
         image: qrpay,
         title: "QrPay",
-        subtitle: "J'ai eu à développer l'application mobile qui facilite les transactions mobiles disponibles sur les différents opérateurs en quelques clics.",
+        subtitle: "QrPay est une application mobile qui facilite les transactions mobiles disponibles sur les différents opérateurs en quelques clics.",
         route: "https://drive.google.com/file/d/1O0aZLtiPVMJxPWWoUftduxw6nx5uV45G/view?usp=drive_link",
         pro: false
       },
@@ -59,7 +59,14 @@ export default [
         subtitle: "Sama Imf met à la disposition des microfinances un systeme leur permettant de faire du sms banking et une application mobile pour les clients de la microfinance qui leur permettra d'effectuer facilement des dépôts sans que ces derniers n'aient besoin de se déplacer.",
         route: "https://samaimf.com/",
         pro: false
-      }
+      },
+      {
+        image: tijobs,
+        title: "TiJobs",
+        subtitle: "Cette application faciite la mise en relation des demandeurs d'emplois et des employeurs.",
+        route: "https://drive.google.com/file/d/1P7X6slZAqe-j0YOn7uqZ0bSF0Kxj364X/view?usp=drive_link",
+        pro: false
+      },
     ]
   },
   {
@@ -69,14 +76,14 @@ export default [
       {
         image: banking,
         title: "Mobile banking",
-        subtitle: "J'ai eu à travailler sur l'application mobile conçue pour répondre aux besoins financiers personnels et professionnels des clients de microfinance, leurs permettant de réaliser une multitude de tâches en quelques clics.",
+        subtitle: "Mobile banking est conçue pour répondre aux besoins financiers personnels et professionnels des clients de microfinance, leurs permettant de réaliser une multitude de tâches en quelques clics.",
         route: "https://play.google.com/store/apps/details?id=com.memad.mobile_banking&hl=fr&gl=US",
         pro: false
       },
       {
         image: agency,
         title: "Mobile agency",
-        subtitle: "J'ai eu à développer l'application mobile pour les agents de collecte des microfinances.",
+        subtitle: "Mobile agency est une application mobile conçue pour les agents de collecte des microfinances.",
         route: "",
         pro: true
       },
@@ -96,7 +103,7 @@ export default [
       {
         image: zocentive,
         title: "Zocentive",
-        subtitle: "J'ai eu à participer au développement de l'application mobile conçue pour pousser les utilisateurs à faire du sport tout en étant récompensé par des challenges.",
+        subtitle: "zocentive pousse les utilisateurs à faire du sport tout en étant récompensé par des challenges.",
         route: "https://drive.google.com/file/d/1PnoXtt1u0mfEckWn6y7NDvw-kxQTaWvt/view?usp=drive_link",
         pro: true
       },
@@ -110,7 +117,7 @@ export default [
       {
         image: pup,
         title: "Pick up point",
-        subtitle: "J'ai eu à développer l'application mobile Pup pour rapprochez les stores des utilisateurs.",
+        subtitle: "Pup a pour but de rapprochez les stores des utilisateurs.",
         route: "",
         pro: true
       },
@@ -121,16 +128,9 @@ export default [
     description: "Tabis technology",
     items: [
       {
-        image: tijobs,
-        title: "TiJobs",
-        subtitle: "J'ai eu à développer l'application mobile pour la mis en relation des demandeurs d'emplois et des employeurs.",
-        route: "https://drive.google.com/file/d/1P7X6slZAqe-j0YOn7uqZ0bSF0Kxj364X/view?usp=drive_link",
-        pro: false
-      },
-      {
         image: tibar,
         title: "TiBar",
-        subtitle: "J'ai eu à participer au développement de l'application mobile conçue pour la gestion des bars et restaurants même à distance.",
+        subtitle: "Tibar est un logiciel de gestion des bars et restaurants même à distance.",
         route: "https://play.google.com/store/apps/details?id=developer.own.tibar&hl=fr&gl=US",
         pro: true
       },
@@ -144,7 +144,7 @@ export default [
       {
         image: ticommerce,
         title: "TiCommerce",
-        subtitle: "J'ai eu à participer au développement de l'application mobile conçue pour la gestion des commerces même à distance.",
+        subtitle: "Ticommerce contribue la gestion des commerces même à distance.",
         route: "https://play.google.com/store/apps/details?id=developer.own.tico&hl=fr&gl=US",
         pro: true
       },
@@ -157,7 +157,7 @@ export default [
       {
         image: sunu,
         title: "Sunu PGS",
-        subtitle: "J'ai eu à développer l'application web pour la gestion des prises en charge des clients de l'assurance santé.",
+        subtitle: "C'est une application web pour la gestion des prises en charge des clients de l'assurance santé.",
         route: "",
         pro: true
       },
